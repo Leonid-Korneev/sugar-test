@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/sugar-test/static/css/main.cfe05046.chunk.css",
-    "main.js": "/sugar-test/static/js/main.dda0f057.chunk.js",
-    "main.js.map": "/sugar-test/static/js/main.dda0f057.chunk.js.map",
+    "main.js": "/sugar-test/static/js/main.f4665976.chunk.js",
+    "main.js.map": "/sugar-test/static/js/main.f4665976.chunk.js.map",
     "runtime-main.js": "/sugar-test/static/js/runtime-main.1d19b85e.js",
     "runtime-main.js.map": "/sugar-test/static/js/runtime-main.1d19b85e.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/sugar-test/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.8467a5d2.chunk.js": "/sugar-test/static/js/2.8467a5d2.chunk.js",
-    "static/js/2.8467a5d2.chunk.js.map": "/sugar-test/static/js/2.8467a5d2.chunk.js.map",
+    "static/js/2.cf955e7c.chunk.js": "/sugar-test/static/js/2.cf955e7c.chunk.js",
+    "static/js/2.cf955e7c.chunk.js.map": "/sugar-test/static/js/2.cf955e7c.chunk.js.map",
     "static/js/3.6c43d564.chunk.js": "/sugar-test/static/js/3.6c43d564.chunk.js",
     "static/js/3.6c43d564.chunk.js.map": "/sugar-test/static/js/3.6c43d564.chunk.js.map",
     "index.html": "/sugar-test/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/sugar-test/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.cfe05046.chunk.css.map": "/sugar-test/static/css/main.cfe05046.chunk.css.map",
-    "static/js/2.8467a5d2.chunk.js.LICENSE.txt": "/sugar-test/static/js/2.8467a5d2.chunk.js.LICENSE.txt"
+    "static/js/2.cf955e7c.chunk.js.LICENSE.txt": "/sugar-test/static/js/2.cf955e7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1d19b85e.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.8467a5d2.chunk.js",
+    "static/js/2.cf955e7c.chunk.js",
     "static/css/main.cfe05046.chunk.css",
-    "static/js/main.dda0f057.chunk.js"
+    "static/js/main.f4665976.chunk.js"
   ]
 }
