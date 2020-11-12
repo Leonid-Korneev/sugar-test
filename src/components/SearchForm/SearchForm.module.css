@@ -1,0 +1,32 @@
+.input {
+    width: 100%;
+}
+
+.button_submit {
+    background-color: #2a54ec;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    margin-left: 5px;
+}
+
+.button_submit:hover {
+    background-color: #4266e5;
+}
+.button_submit:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.form_block {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}

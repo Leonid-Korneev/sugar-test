@@ -1,0 +1,12 @@
+.table_wrapper {
+    width: 900px;
+}
+
+.failed_search_block {
+    font-weight: 700;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 20px 0
+
+}

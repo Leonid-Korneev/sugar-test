@@ -1,0 +1,18 @@
+.footer_wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.showMoreUser_btn {
+  background-color: #2a54ec;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 3px;
+  border: none;
+  margin-left: 5px;
+}
+
+.showMoreUser_btn:hover {
+  background-color: #4266e5;
+}
