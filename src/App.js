@@ -17,7 +17,7 @@ function App() {
     const [totalClientsCount, setTotalClientsCount] = useState(0)
     const [currentPage, setCurrentPage] = useState(1)
     const pageSize = 25
-
+    const count = Math.ceil(totalClientsCount/pageSize)
 
     const getFilteredClients = (filterString) => {
         setFilteredClients([...clients.filter((client) => {
@@ -59,7 +59,7 @@ function App() {
                 <Table  pageSize={pageSize} currentPage={currentPage} clients={  filteredClients  }/>
 
                 <div className={style.footer_wrapper}>
-                <Pagination   count={Math.ceil(totalClientsCount/pageSize)} page={currentPage} onChange={
+                <Pagination   count={count} page={currentPage} onChange={
                     (e,page)=>{setCurrentPage(page)}
                 }/>
 
