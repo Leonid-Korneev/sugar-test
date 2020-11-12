@@ -76,7 +76,7 @@ function App() {
                     (e,page)=>{setCurrentPage(page)}
                 }/>
 
-                <button className={style.showMoreUser_btn} onClick={()=>{setLastPage(lastPage+1)}}>Show more clients </button>
+                {/*<button className={style.showMoreUser_btn} onClick={()=>{setLastPage(lastPage+1)}}>Show more clients </button>*/}
                 </div>
                 </>}
 
