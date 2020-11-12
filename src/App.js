@@ -40,8 +40,21 @@ function App() {
         setIsFetching(true)
         apiRequest.getClients(lastPage).then(
             (response) => {
-                setClients(()=> [...clients, ...response.data])
-                     setIsFetching(false)
+
+                if(response.data.length) {
+
+                    setClients(()=> [...clients, ...response.data])
+                    setLastPage(lastPage+1)
+
+                } else {
+                    setIsFetching(false)
+                }
+
+
+
+
+
+
             }
         )
     }, [lastPage])
